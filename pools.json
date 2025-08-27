@@ -1,0 +1,8 @@
+[
+  {"name": "Amazing Pool", "proxy": "0x1f0e86Bc299Cc66df2e5512a7786C3F528C0b5b6"},
+  {"name": "Plunder Swap",     "proxy": "0x691682FCa60Fa6B702a0a69F60d045c08f404220"},
+  {"name": "Encapsulate", "proxy": "0x1311059DD836D7000Dc673eA4Cc834fe04e9933C"},  
+  {"name": "Lithium Digital", "proxy": "0xBD6ca237f30A86eea8CF9bF869677F3a0496a990"},
+  {"name": "Stake Shark", "proxy": "0xF7F4049e7472fC32805Aae5bcCE909419a34D254"},
+  {"name": "TorchWallet.io", "proxy": "0xBB2Cb8B573Ec1ec4f77953128df7F1d08D9c34DF"} 
+]
